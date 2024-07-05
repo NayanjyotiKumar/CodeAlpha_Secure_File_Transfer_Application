@@ -22,7 +22,7 @@ Get up and running with the application:
 
 1. **Clone the repository:**
    ```bash
-   
+   https://github.com/ValhalaKing16/CodeAlpha_Secure_File_Transfer_Application
 
 2. Navigate to the project directory:
 ```
